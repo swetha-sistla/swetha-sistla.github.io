@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://swetha-sistla.github.io/sitemap.xml
