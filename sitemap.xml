@@ -1,72 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main site -->
   <url>
     <loc>https://swetha-sistla.github.io/</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>1.0</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.5281/zenodo.14045421</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.55041/IJSREM6802</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.5281/zenodo.14261017</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.36948/ijfmr.2022.v04i03.19568</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.55041/ISJEM0064</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.47363/JMCA/2024(2)E130</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.55041/IJSREM22885</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.5281/zenodo.14207346</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.5281/zenodo.14203872</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.47363/JAICC/2024(3)E180</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.47363/JEAST/2024(6)277</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.5281/zenodo.14403394</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.47363/JAICC/2024(3)409</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.5281/zenodo.14403619</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.5281/zenodo.14583637</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://doi.org/10.5281/zenodo.17387092</loc>
-    <lastmod>2025-10-24</lastmod>
-    <priority>0.9</priority>
+    <lastmod>2025-10-29</lastmod>
   </url>
+  <url>
+    <loc>https://swetha-sistla.github.io/publications/</loc>
+    <lastmod>2025-10-29</lastmod>
+  </url>
+
+  <!-- Publications -->
+  <url><loc>https://swetha-sistla.github.io/publications/AIPoweredCyberAttacks/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/GenerativeAIEnterprise/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/ResponsibleAIGovernance/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/LLMvsSLM/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/SoftSkillsCollaboration/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/RetrievalAugmentedAI/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/NamedEntityRecognition/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/TanzuToOpenShift/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/PromptEngineeringDeepDive/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/RPAFinanceEfficiency/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/DomainDrivenDesign/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/CybersecurityImperative/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/KafkaResilientMicroservices/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/DataModelingEssentials/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/CICDEvolution/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/AutomationTestingFuture/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/HarnessingScrumAgile/</loc></url>
+
 </urlset>
