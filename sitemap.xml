@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Main site -->
-  <url>
-    <loc>https://swetha-sistla.github.io/</loc>
-    <lastmod>2025-10-29</lastmod>
-  </url>
-  <url>
-    <loc>https://swetha-sistla.github.io/publications/</loc>
-    <lastmod>2025-10-29</lastmod>
-  </url>
+  <!-- Main pages -->
+  <url><loc>https://swetha-sistla.github.io/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/</loc></url>
 
   <!-- Publications -->
-  <url><loc>https://swetha-sistla.github.io/publications/AIPoweredCyberAttacks/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/AICybersecurity/</loc></url>
+  <url><loc>https://swetha-sistla.github.io/publications/AIGovernanceIntegrity/</loc></url>
   <url><loc>https://swetha-sistla.github.io/publications/GenerativeAIEnterprise/</loc></url>
-  <url><loc>https://swetha-sistla.github.io/publications/ResponsibleAIGovernance/</loc></url>
-  <url><loc>https://swetha-sistla.github.io/publications/LLMvsSLM/</loc></url>
   <url><loc>https://swetha-sistla.github.io/publications/SoftSkillsCollaboration/</loc></url>
-  <url><loc>https://swetha-sistla.github.io/publications/RetrievalAugmentedAI/</loc></url>
   <url><loc>https://swetha-sistla.github.io/publications/NamedEntityRecognition/</loc></url>
   <url><loc>https://swetha-sistla.github.io/publications/TanzuToOpenShift/</loc></url>
   <url><loc>https://swetha-sistla.github.io/publications/PromptEngineeringDeepDive/</loc></url>
